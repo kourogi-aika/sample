@@ -79,3 +79,9 @@ footer{
 	padding-top: 10rem;
 }
 
+@media screen and (max-width: 640px) {
+   #text{ 
+     font-size : 1rem;
+   }
+}
+
